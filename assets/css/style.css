@@ -10,7 +10,7 @@ body {
 	margin: auto;
 	overflow: visible;
 }
-.smBody, .smFeet, .snHead {
+.smBody, .smFeet, .smHead {
 	border: thin #000 solid;
 	height: 150px;
 	background-color: aliceblue;
